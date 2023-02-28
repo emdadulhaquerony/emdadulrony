@@ -1,0 +1,19 @@
+body{
+    background-image: url(boss.jpg);
+    text-align: center;}
+h1{
+    color: blue;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+p{color: blue
+    ;}
+    .round1{ color: blue;
+        border:chartreuse;
+        border-width: 5px;
+        border-radius:12px;
+        border-style: solid;}
+        a{
+            color:white;
+        }
